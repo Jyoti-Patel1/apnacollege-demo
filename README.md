@@ -1,3 +1,3 @@
 # apnacollege-demo
-author jyoti
+author jyoti<br>
 this is  my first repo
