@@ -1,3 +1,4 @@
 # apnacollege-demo
-author jyoti<br>
-this is  my first repo
+
+author jyoti patel<br>
+this is my first repo
