@@ -1,4 +1,4 @@
 # apnacollege-demo
 
-author jyoti patel<br>
+author jyoti  ramlal patel<br>
 this is my first repo
